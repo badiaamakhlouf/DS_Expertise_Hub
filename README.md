@@ -1,6 +1,6 @@
 #  Data Science Roadmap : Journeying from Fundamentals to Proficiency
 
-🎉 Welcome to my 'Data Science Roadmap : Journeying from Fundamentals to Proficiency', this repo will help you to unlock expertise and discover everything you need to become a proficient data science expert.
+🎉 Welcome to my **Data Science Roadmap**, this repo will help you to unlock expertise and discover everything you need to become a proficient data science expert.
 It covers a wide range of topics from fundamental basics to advanced concepts.
 
 🎯 I have tried my best to provide you with clear definitions, detailed examples, and the corresponding code snippets 
