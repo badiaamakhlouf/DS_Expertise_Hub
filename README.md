@@ -74,11 +74,11 @@ to deepen your expertise and to excel in the dynamic field of data science.
 - Time Series Analysis: forecasting, trend analysis, seasonal decomposition.
 - Recommender Systems: collaborative filtering, content-based filtering.
   
-## 9- Practical Applications and Case Studies
+## 10- Practical Applications and Case Studies
 - Real-world applications of data science in various industries (e.g., finance, healthcare, e-commerce).
 - Case studies showcasing how data science techniques are applied to solve specific problems.
   
-## 10- Conclusion
+## 11- Conclusion
 - Recap of the journey from fundamental to advanced concepts in data science.
 - Importance of continuous learning and practice in mastering data science skills.
 - Encouragement for readers to embark on their own data science journey.
