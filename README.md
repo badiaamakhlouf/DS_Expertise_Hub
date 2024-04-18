@@ -15,6 +15,11 @@ to deepen your expertise and to excel in the dynamic field of data science.
 - Data Wrangling and Preprocessing
 - Data Visualization and Exploratory Data Analysis (EDA)
 - Feature Engineering and Extraction Strategies
+- Machine Learning: Basics to Advanced
+- Deep Learning: Beginner to Advanced
+- Specialized Topics in Data Science
+- Practical Applications and Case Studies
+- Conclusion
 
 ## 1- Data Science Overview
 - Brief overview of the importance of data science.
@@ -72,6 +77,7 @@ to deepen your expertise and to excel in the dynamic field of data science.
 ## 9- Practical Applications and Case Studies
 - Real-world applications of data science in various industries (e.g., finance, healthcare, e-commerce).
 - Case studies showcasing how data science techniques are applied to solve specific problems.
+  
 ## 10- Conclusion
 - Recap of the journey from fundamental to advanced concepts in data science.
 - Importance of continuous learning and practice in mastering data science skills.
